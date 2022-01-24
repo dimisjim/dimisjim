@@ -2,7 +2,7 @@
 
 Born in Athens, Greece in 1992, B.Sc. in Informatics, currently living in Zurich working as a 
 - **DevOps** Practitioner
-- **Cloud** Engineer
+- **Public Compute Cloud** Engineer
 - **DevSecOps** Practitioner
 - **Platform** Engineer
 - **Infrastructure** Engineer/Architect
